@@ -237,7 +237,7 @@ body {
   transition: all 0.4s; }
 
 .btn--animated {
-  animation: moveInBottom 0.5s ease-out 61s;
+  animation: moveInBottom 0.5s ease-out 63s;
   animation-fill-mode: backwards; }
 
 .btn-text:link, .btn-text:visited {
