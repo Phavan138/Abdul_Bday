@@ -455,6 +455,10 @@ body {
   .feature-box:hover {
     transform: translateY(-1.5rem) scale(1.03); }
 
+.xicon {
+  width: 90px; }
+
+
 .story {
   width: 75%;
   margin: 0 auto;
