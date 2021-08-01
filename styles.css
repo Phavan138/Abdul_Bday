@@ -88,7 +88,7 @@ body {
     animation-name: moveInLeft;
     animation-duration: 1s;
     animation-timing-function: ease-out;
-    animation-delay: 59s;
+    animation-delay: 61s;
     animation-fill-mode: backwards; }
     @media (max-width: 37.5em) {
       .heading-primary--main {
@@ -101,7 +101,7 @@ body {
     letter-spacing: 1.75rem;
     animation-name: moveInRight;
     animation-duration: 1s;
-    animation-delay: 59s;
+    animation-delay: 61s;
     animation-fill-mode: backwards; }
     @media (max-width: 37.5em) {
       .heading-primary--sub {
